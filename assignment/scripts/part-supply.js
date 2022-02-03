@@ -84,6 +84,5 @@ let boxes = 0;
 while (p >=7){
     p -=7;
     boxes ++;
-    console.log(p);
 } // end while
 console.log(`There are ${boxes} boxes filled with parts and ${p} parts remaining.`);
